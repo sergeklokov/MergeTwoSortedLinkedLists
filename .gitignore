@@ -3,3 +3,11 @@
 ################################################################################
 
 /MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists.csproj.user
+/.vs/MergeTwoSortedLinkedLists/v16/.suo
+*.v2
+/MergeTwoSortedLinkedLists/obj/Debug/netcoreapp3.1
+/MergeTwoSortedLinkedLists/obj/MergeTwoSortedLinkedLists.csproj.nuget.dgspec.json
+*.props
+*.targets
+/MergeTwoSortedLinkedLists/obj/project.assets.json
+/MergeTwoSortedLinkedLists/obj
